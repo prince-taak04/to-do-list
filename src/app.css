@@ -1,0 +1,21 @@
+/* .text-centre{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin:10px;
+    margin-bottom: 25px;
+} */
+input{
+    width:100%;
+}
+.todo-container{
+    text-align: center;
+}
+
+.button1{
+    min-width: 80px;
+}
+.row{
+    margin:10px;
+    text-align: left;
+}
