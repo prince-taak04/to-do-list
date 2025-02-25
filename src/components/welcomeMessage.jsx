@@ -1,4 +1,4 @@
 const WelcomeMessage=()=>{
-    return <p>Enjoy your day</p>
+    return <p>Have a great day!</p>
 };
 export default WelcomeMessage;
